@@ -1,0 +1,22 @@
+FolderName	StudyName	SampleID	DonorID	BiopsyType	Location	Binary Stage	Stage	Day	Women age	10x kit	Treatment	Batch
+4861STDY7387181	Luz	4861STDY7387181	A13	Organ_Donor	endometrium_enriched	Proliferative	proliferative	unknown	35-39	3' v2	C	1
+4861STDY7387182	Luz	4861STDY7387182	A13	Organ_Donor	endometrium_enriched	Proliferative	proliferative	unknown	35-39	3' v2	C	2
+4861STDY7387183	Luz	4861STDY7387183	A13	Organ_Donor	myometrium	Proliferative	proliferative	unknown	35-39	3' v2	C	3
+4861STDY7771115	Luz	4861STDY7771115	A30	Organ_Donor	endometrium_enriched	Secretory	early-secretory	unknown	21-25	3' v2	C	8
+4861STDY7771123	Luz	4861STDY7771123	A30	Organ_Donor	endometrium_enriched	Secretory	early-secretory	unknown	21-25	3' v2	T	9
+MRC_Endo8625698	Luz	MRC_Endo8625698	E1	Superficial_Biopsy	endometrium_biopsy	Secretory	late-secretory	day25	27-31	3' v3	C	10
+MRC_Endo8625699	Luz	MRC_Endo8625699	E1	Superficial_Biopsy	endometrium_biopsy	Secretory	late-secretory	day25	27-31	3' v3	T	10
+MRC_Endo8712024	Luz	MRC_Endo8712024	E2	Superficial_Biopsy	endometrium_biopsy	Secretory	mid-secretory	day20	24-28	3' v3	C	11
+MRC_Endo8712032	Luz	MRC_Endo8712032	E2	Superficial_Biopsy	endometrium_biopsy	Secretory	mid-secretory	day20	24-28	3' v3	T	11
+MRC_Endo8715415	Luz	MRC_Endo8715415	E3	Superficial_Biopsy	endometrium_biopsy	Proliferative	proliferative	day8	24-28	3' v3	C	11
+MRC_Endo8715416	Luz	MRC_Endo8715416	E3	Superficial_Biopsy	endometrium_biopsy	Proliferative	proliferative	day8	24-28	3' v3	T	11
+GSM4577306	Wang	SRR11869223	SAMN15049051	Superficial_Biopsy	endometrium_biopsy	Secretory	early-secretory	day17		3' v3.1	C+T	12
+GSM4577307	Wang	SRR11869225	SAMN15049050	Superficial_Biopsy	endometrium_biopsy	Proliferative	proliferative	day22		3' v3.1	C+T	12
+GSM4577308	Wang	SRR11869227	SAMN15049049	Superficial_Biopsy	endometrium_biopsy	Secretory	mid-secretory	day22		3' v3.1	C+T	12
+GSM4577309	Wang	SRR11869229	SAMN15049048	Superficial_Biopsy	endometrium_biopsy	Secretory	early-mid-secretory	day20		3' v3.1	C+T	12
+GSM4577310	Wang	SRR11869231	SAMN15049047	Superficial_Biopsy	endometrium_biopsy	Secretory	early-mid-secretory	day23		3' v3.1	C+T	12
+GSM4577311	Wang	SRR11869233	SAMN15049046	Superficial_Biopsy	endometrium_biopsy	Secretory	early-mid-secretory	day19		3' v3.1	C+T	12
+GSM4577312	Wang	SRR11869235	SAMN15049045	Superficial_Biopsy	endometrium_biopsy	Secretory	late-secretory	day26		3' v3.1	C+T	13
+GSM4577313	Wang	SRR11869236	SAMN15049044	Superficial_Biopsy	endometrium_biopsy	Secretory	early-secretory	day20		3' v3.1	C+T	12
+GSM4577314	Wang	SRR11869238	SAMN15049043	Superficial_Biopsy	endometrium_biopsy	Secretory	early-secretory	day26		3' v3.1	C+T	12
+GSM4577315	Wang	SRR11869240	SAMN15049042	Superficial_Biopsy	endometrium_biopsy	Proliferative	proliferative	day16		3' v3.1	C+T	13

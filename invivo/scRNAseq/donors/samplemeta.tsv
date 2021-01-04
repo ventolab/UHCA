@@ -1,0 +1,20 @@
+FolderName	SampleID	DonorID	BiopsyType	Location	Binary Stage	Stage	Day	Women age	10x kit	Treatment
+4861STDY7309368	4861STDY7309368	A10	Organ_Donor	endometrium_enriched	unknown	unknown	unknown	33-37	3' v2	C
+4861STDY7309369	4861STDY7309369	A10	Organ_Donor	endometrium_enriched	unknown	unknown	unknown	33-37	3' v2	C
+4861STDY7309370	4861STDY7309370	A10	Organ_Donor	endometrium_enriched	unknown	unknown	unknown	33-37	3' v2	C
+4861STDY7309371	4861STDY7309371	A10	Organ_Donor	myometrium	unknown	unknown	unknown	33-37	3' v2	C
+4861STDY7387181	4861STDY7387181	A13	Organ_Donor	endometrium_enriched	proliferative	proliferative	unknown	35-39	3' v2	C
+4861STDY7387182	4861STDY7387182	A13	Organ_Donor	endometrium_enriched	proliferative	proliferative	unknown	35-39	3' v2	C
+4861STDY7387183	4861STDY7387183	A13	Organ_Donor	myometrium	proliferative	proliferative	unknown	35-39	3' v2	C
+4861STDY7462245	4861STDY7462245	A16	Organ_donor	endometrium_enriched	proliferative	late-proliferative	unknown	22-26	3' v2	C
+4861STDY7462246	4861STDY7462246	A16	Organ_donor	endometrium_enriched	proliferative	late-proliferative	unknown	22-26	3' v2	C
+4861STDY7462247	4861STDY7462247	A16	Organ_donor	endometrium_enriched	proliferative	late-proliferative	unknown	22-26	3' v2	C
+4861STDY7462248	4861STDY7462248	A16	Organ_Donor	myometrium	proliferative	late-proliferative	unknown	22-26	3' v2	C
+4861STDY7771115	4861STDY7771115	A30	Organ_Donor	endometrium_enriched	secretory	early-secretory	unknown	21-25	3' v2	C
+4861STDY7771123	4861STDY7771123	A30	Organ_Donor	endometrium_enriched	secretory	early-secretory	unknown	21-25	3' v2	T
+MRC_Endo8625698	MRC_Endo8625698	E1	Superficial_Biopsy	endometrium_biopsy	secretory	late-secretory	day25	27-31	3' v3	C
+MRC_Endo8625699	MRC_Endo8625699	E1	Superficial_Biopsy	endometrium_biopsy	secretory	late-secretory	day25	27-31	3' v3	T
+MRC_Endo8712024	MRC_Endo8712024	E2	Superficial_Biopsy	endometrium_biopsy	secretory	mid-secretory	day20	24-28	3' v3	C
+MRC_Endo8712032	MRC_Endo8712032	E2	Superficial_Biopsy	endometrium_biopsy	secretory	mid-secretory	day20	24-28	3' v3	T
+MRC_Endo8715415	MRC_Endo8715415	E3	Superficial_Biopsy	endometrium_biopsy	proliferative	proliferative	day8	24-28	3' v3	C
+MRC_Endo8715416	MRC_Endo8715416	E3	Superficial_Biopsy	endometrium_biopsy	proliferative	proliferative	day8	24-28	3' v3	T
